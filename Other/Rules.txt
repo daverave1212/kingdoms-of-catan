@@ -1,0 +1,192 @@
+
+  Rules breaking:
+- Can't build cities
+- Can build roads on the same edge as another player's road
+- 2 robbers
+- Change tiles/numbers (into water/desert/another tile)
+  - Replace desert with special tile
+- ALL settlements must connect
+- Neutral player (like in traders & barbarians)
+- Robber does not move the robber; only collects
+- Destroy enemy roads
+- You need 1 less VP to win
+- Cities award no VP or smth
+
+  Other Ideas
+- Events (prepare or not :>)
+
+
+  Civilizations:
+ 
+1. Vikings
+- Prepared for War: You start the game with 1 usable Knight card
+- Builds: Boats
+    You can also build roads with (1 Wood, 1 Sheep) instead of (1 Wood, 1 Brick) on water edges.
+    Variant: If you're playing Seafarers, you can build boats with (2 Wood)
+- Raiding:
+    If you block a tile that's near water with the Robber, you collect 1 resource from ALL players with settlements near that tile.
+    
+2. Rome
+- Modest Start:
+    You are always second to place your starting pieces.
+    You start with only 1 settlement and 1 road.
+    Your first built settlement and road are free.
+- Builds: Colosseum
+    If you surround all 6 edges of a tile with your roads, that represents a Colosseum.
+    From then on, you can also buy Development Cards with (1 Brick, 1 Sheep).
+    Awards 1 victory point.
+- Calendar:
+    On your turn, after you roll, if you didn't get any resource, you get 1 resource from the bank.
+    The player to your right chooses which resource you get.
+
+3. Aztec
+- Floating Farms: The first time you build (not place) a settlement near water, you can choose an extra tile and place it on the water near your settlement.
+    If you do, you can't use the ports there.
+    Put a 4. or a 10. on it (your choice).
+- Warriors: You can get a Knight card from the development deck for any 3 resources. Then shuffle the development deck.
+- Sacrifices: You can sacrifice a used Knight card to gain 1 resource of your choice from the bank. The Knight goes back to the Development deck.
+    
+
+4. Communists
+- Equality:
+    Until they have at least 1 City, each player rolls a d12 instead of 2d6.
+    You always roll 1d12.
+    The Robber is moved on 1 and 7.
+- Redistribution: When another player discards resources, you get one of those resources instead of the bank (they choose which).
+    (discard = the player had 8+ resources and a 7 was rolled)
+- Authority: Once per your turn, after you roll, you can discard 1 resource of any type to cancel the roll and roll again.
+
+5. Egypt
+- Desert Farmers:
+    When the game starts, put a 6. number token on a Desert tile.
+    That Desert now produces Wheat only for your adjacent settlements/cities.
+- Builds: Pyramid: 6 Bricks
+    Build the Pyramid on any tile.
+    The robber can't be placed there anymore.
+    Awards 2 victory points.
+- Excavation Roads: You can build 2 roads (at once) directly on a tile to connect 2 opposite tile corners.
+
+
+6. Gypsies (Nomads)
+- Crowding Nomads: You can build, place and move settlements within 1 edge of another settlement (normally instead of 2) (other players still can't)
+- Moving Settlement: For 1 Wood, you can move 1 settlement one edge in any direction where you have a road (not cities).
+- Mysticism: When you steal resources with the robber, you can look at that player's resources and pick one of choice.
+
+7. Celts
+- Herding: If you have any port settlement/city, you can trade 2 Sheep for any resource
+- Scattered Tribes: When you build a new settlement, remove all roads connecting that settlement to another. Get 1 Sheep for each road removed.
+- Druidcraft: When you get a Development card, look at the first 3 on the deck and choose 1 to keep. Then put them back.
+
+8. Chinese:
+- Large Population: You start with 3 Settlements and 0 Roads. You always put all 3 settlements after all other players.
+- Great Wall:
+    You can build 2 roads on the same edge, to form a "double road".
+    If you have 3 double roads one after another, that is the Great Wall.
+    Awards 1 victory point and each double road counts as 2 roads towards Longest Road.
+- Chinese Year: When the game begins, shuffle the special Chinese Development cards in the Development Deck.
+	- Dragon: Choose a resource type. You and China (if you're not China) get that resource from the bank. Then draw another Development Card (only you).
+	- Ox: Play this reactively when you have to discard cards (even if not on your turn). You only discard 1 card and it goes to China. If you're China, you don't discard anything.
+	- Monkey: Choose 2 players except China. They swap all cards in hand. Then each gives a resource of choice to China.
+	- Rooster: When you play this, China chooses a resource type. You gain 2 of it from the bank, and China gains one (if you're not China).
+
+9. Japan
+- Fishing Boats: You can use ports even if you just have a road that leads to them.
+- Rapid Technology:
+    When you build your first City, take a 5. or 9. token and put it on any tile.
+    That tile now also produces resources on that number.
+- Prominent Culture: The thief can't be placed on tiles near your Cities (but it can on tiles near your settlements).
+
+10. America
+- Rapid Expansion:
+    You can't build roads.
+    You can and must build your settlements within 2 free edges of another settlement you have.
+    Your new Settlements cost 1 extra Ore and one extra resource of choice.
+    You don't place roads at the start of the game.
+- Diplomacy: When a player moves the Robber, you can say "No" to their first tile choice. They must pick a different tile.
+- Capitalism: On 7's, you discard only if you have 10 or more cards in hand.
+
+11. Arab
+- Trade Route: After everyone has placed their settlements, connect the closest 2 settlements (at least one of yours) with your roads for free (shortest path).
+- Bazaar: You can trade any 4 resources for 1 resource (the rest, aka port trading, is done as normal).
+- Builds: Islam (2 Sheep, 2 Wheat)
+    Gain the Islam card.
+    Awards 1 Victory Point.
+    Once per turn, on your turn, you can choose a resource type and all players get one from the bank for free.
+
+12. Greek (TODO)
+- Democracy: When a player rolls a 7 and moves the Robber, you can issue a vote.
+All players vote (you too) if they are ok with that move.
+If the votes are 50% or more against, the player chooses another tile to put the robber on (without voting this time).
+
+13. Indus (TODO)
+- Peacefulness:
+    You can not gain Ore normally.
+    For building, you can substitute any resource for Ore.
+- Water Wells: 1 wood, 1 ore
+Instead of settlements, you can build Wells, even 1 edge away from another settlement.
+Whenever someone rolls 4 or 10, each Well gives you one Ore.
+Water Wells MUST be built near Mountains.
+- Hinduism: After setting up the game (after China), put the Hinduism Development card as the 7th card in the Development deck. Once Hinduism has been drawn, you can gain Ore normally and you can substitute Ore for any resource.
+	Hinduism: This card is played immediately when drawn. You gain 2 resources of choice from the bank. Then Hinduism activates for the Indus player.
+    
+14. Mesopotamia
+- City of Babylon: Instead of starting with 2 settlements and 2 roads, you start with 1 City and 2 roads.
+  When setting the game up, you are always the second to place your city piece on the board.
+  After all other players' setup is done, you can place your 2 roads.
+- Writing: On your turn, once per turn, you can look at another player's hand and development cards.
+- Agriculture: Your Wheat and Sheep resource cards don't count to the number of cards you have in hand (see appendix).
+
+
+
+
+	Appendix
+This is a document explaining everything about Catan: Civilizations.
+This is a custom expansion for the base game Catan, but works with Seafarers and other expansions as well.
+
+Extra Pieces Included:
+- 1d12 Communist Die
+- Egyptian Pyramid
+- 1 Islam Card
+- 5 extra Aztec hexagonal tiles, one for each resource
+- 1 extra 4. token, and one extra 10. token (for Aztec)
+- 1 extra 5. token, and one extra 9. token (for Japan)
+- 8 Chinese Year Development Cards (4.4cm x 6.8cm) (520px x 804px)
+- 1 Hinduism Development Card
+
+
+How it works:
+Before the game starts, have each player choose a Civilization card (or distribute them randomly).
+Each Civilization card provides 3 special powers to that player (e.g. extra buildings, extra rules, etc).
+These are usually simple, but game-changing powers.
+Civilizations should be fairly balanced, so none should be much stronger than another.
+If any of the powers seem strange, consult the Weird Civilization Powers Explained section of this appendix.
+
+Special Rules:
+When playing with Catan: Civilizations, apply the following rules:
+- Longest Road is worth only 1 Victory Point
+- Largest Army is worth only 1 Victory Point
+- China and Greece can only be in games with at least 3 players
+- Players roll to determine their turn normally (highest goes first), but certain Civlizations don't roll and instead have a fixed turn order (this is written on some Civilization cards).
+
+
+Weird Civilization Powers Explained:
+Aztecs: The first time you build a settlement using resources (NOT placing your starting settlements), you can take one hexagonal Tile that's unused (e.g. from another expansion) and place it directly on the edge of the board (you choose if it intersects with 2 tiles or just 1 tile). Now, your new settlement should be on the intersection of a normal tile (or 2 normal tiles) and the new tile. Then add eithe a 4 or a 10 token to it.
+The new tile you just placed acts as a normal tile. Other players can use it too if they have a settlement near it.
+If you're playing with expansions, you can only place a standard resource tile (e.g. Gold tile is not allowed).
+If you're playing with seafarers and you build your settlement right near a water tile, you can replace the water tile with another normal resource tile.
+
+Egypt: For Excavation Roads, you can literally build 2 roads directly ON a hexagonal tile. The advantage is you can connect 2 opposite corners using only 2 roads instead of 3 if you used normal edges (and also other players can't block your road construction as easily). This is optional, of course.
+The 2 roads must be built at the same time (on the same turn).
+
+Arabs: For Trade Route, after everyone has finished placing their resources, look at all settlements (or city/cities if playing with special civilizations) out of which at least one should be yours.
+Find the 2 settlements that have the shortest free path from one to another, that's unblocked by any roads.
+Build free roads on this free path until the 2 settlements (or cities) are connected by your roads.
+If there is a tie for the 2 closest settlements or the shortest free path, then you choose which to build the roads for.
+Connecting 2 settlements like this doesn't bring any benefit other than you having a really long road and blocking road construction for someone else.
+
+
+Indus: For Peacefulness, you can use any resource to substitute for Ore.
+For example, instead of paying 1 Sheep, 1 Wheat and 1 Ore for a Development card, you can pay 1 Sheep, 1 Wheat and 1 Wood, or 2 Sheep and 1 Wheat, and so on. Note that you don't gain Ore even if you have a settlement near a Mountain tile!
+For Hinduism, the effect is the same as Year of Plenty for the player drawing it. Then, the Hinduism card goes to the Indus player to mark that Hinduism has started. From now on, the Indus player can use Ore as if it were any other resource. For example, the Indus player could build a road with 1 Wood and 1 Ore, or 1 Brick and one Ore, or even 2 Ores! Also, the Indus player can now gain Ore from Mountains with adjacent Settlements normally.
+The Hinduism card starts as the 7th card in the deck, e.g. 7 Development cards need to be drawn to get to Hinduism.
+NOTE: Whenever the deck is shuffled, the Hinduism card stays on the same position. For example, if it is currently the 4th card in the deck and the deck must be shuffled, shuffle the deck without Hinduism, then put Hinduism back as the 4th card.
