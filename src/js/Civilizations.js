@@ -233,4 +233,4 @@ const Civilizations = [
             spacing: 0.4
         }
     }
-]
+].sort((a, b) => getOnlyKey(a).localeCompare(getOnlyKey(b)))
